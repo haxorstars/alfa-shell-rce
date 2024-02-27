@@ -1,0 +1,5 @@
+http://domain-target/ALFA_DATA/alfacgiapi/perl.alfa
+http://domain-target/ALFA_DATA/alfacgiapi/bash.alfa
+http://domain-target/ALFA_DATA/alfacgiapi/py.alfa
+
+if the target accessed becomes blank page, maybe the target is vuln to rce
